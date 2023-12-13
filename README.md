@@ -10,7 +10,7 @@ The primary objective of this churn analysis project is to help the telecommunic
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP2 | Churn Analysis and Customer Retention Strategies for a Telecommunication Company |  https://medium.com/@chipmnkal/churn-analysis-and-customer-retention-strategies-for-a-telecommunication-company-136b82b1c27e      |          |
+| LP2 | Churn Analysis and Customer Retention Strategies for a Telecommunication Company |  [Article](https://medium.com/@chipmnkal/churn-analysis-and-customer-retention-strategies-for-a-telecommunication-company-136b82b1c27e)      |          |
 
 ### Questions
 1. Which gender exhibited the highest churn?
